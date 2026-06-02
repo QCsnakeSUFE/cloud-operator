@@ -38,8 +38,3 @@ var (
 	// AddToScheme adds the types in this group-version to the given scheme.
 	AddToScheme = SchemeBuilder.AddToScheme
 )
-
-domain = cloud.com 
-group = compute.cloud.com
-version = v1
-kind: ec2Instance
